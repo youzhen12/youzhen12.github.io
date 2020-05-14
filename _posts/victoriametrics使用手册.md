@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 阿里笔试题取物资的go语言解法
+title: VictoriaMetrics
 date: 2020-5-14
 categories: blog
 tags: [算法]
-description: 快速排序。
+description: 个人学习总结,仅供参考。
 
 ---
 
