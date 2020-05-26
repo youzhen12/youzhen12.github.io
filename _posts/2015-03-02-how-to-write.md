@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 阿里笔试题取物资的go语言解法
+title: 阿里笔试题取物资的go语言解法-快速排序
 date: 2020-5-14
 categories: blog
 tags: [算法]
@@ -9,7 +9,7 @@ description: 快速排序。
 
 #
 
-# 阿里笔试题取物资
+# 阿里笔试题取物资-快速排序
 
 ## 题目
 
